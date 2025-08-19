@@ -1,3 +1,3 @@
 class A:
     def hello(self):
-        print("hello")
+        print("hello from A")

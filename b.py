@@ -1,4 +1,3 @@
-
 class B:
     def hello(self):
-        print("hello")
+        print("hello from B")
